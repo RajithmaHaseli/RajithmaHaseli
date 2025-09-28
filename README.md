@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rajithma Haseli</h1>
 <h3 align="center">A passionate UI/UX Designer & Web Developer from Sri Lanka</h3>
 <img align="right" width="400" alt="Hi image" src="https://i.pinimg.com/originals/b5/60/f5/b560f54a3552617da0a113f008443add.gif"/>
